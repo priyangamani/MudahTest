@@ -24,7 +24,6 @@ The demo app for my blog post.
 
 - `npm run clean` will delete built resources.
 
-Introduction from https://codepen.io/stowball/post/a-dummy-s-guide-to-redux-and-thunk-in-react
 
 
 - npm test (For Testing/ jest)
